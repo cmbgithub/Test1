@@ -1,0 +1,3 @@
+Team: 개발 1팀
+Manager: Mr. John.
+Members: Linda, James, MingYer, Lincolin
