@@ -1,0 +1,3 @@
+Team: Data Platform
+Manager: Ryan Cooper
+Members: Dylan Brooks, Chloe Martinez, Ethan Vance
