@@ -1,3 +1,4 @@
 Team: Data Platform
 Manager: Ryan Cooper
+Coach: Tyler
 Members: Dylan Brooks, Chloe Martinez, Ethan Vance
