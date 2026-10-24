@@ -1,4 +1,4 @@
 Team: 개발 1팀
-Manager: Mr. John.
+Manager: Kate
 Coach: George
 Members: Linda, James, MingYer, Henry, Charlotte

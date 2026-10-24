@@ -1,4 +1,4 @@
 Team: 개발 3팀
 Manager: 최동현 수석연구원 (Tech Lead)
 Members: 김아영(Design), 이준혁(DevOps), 강소라(QA), Oliver
-Coach: Oscar
+Coach: Noel
