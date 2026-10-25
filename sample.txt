@@ -1,6 +1,6 @@
 Team: 개발 1팀
 
-Manager: Kate3
+Manager: Kate8
 
 Coach: George
 Members: Linda, James, MingYer, Henry, Charlotte
